@@ -1,0 +1,33 @@
+[
+    {
+        "id": 1,
+        "nombre": "Perfume",
+        "imagen": "./assets/favicon.png",
+        "precio": "¢60,00"
+    },
+    {
+        "id": 2,
+        "nombre": "Perfume",
+        "imagen": "./assets/favicon.png",
+        "precio": "¢60,00"
+    },
+    {
+        "id": 3,
+        "nombre": "Perfume",
+        "imagen": "./assets/favicon.png",
+        "precio": "¢60,00"
+    },
+    {
+        "id": 4,
+        "nombre": "Perfume",
+        "imagen": "./assets/favicon.png",
+        "precio": "¢60,00"
+    },
+    {
+        "id": 5,
+        "nombre": "Perfume",
+        "imagen": "./assets/favicon.png",
+        "precio": "¢60,00"
+    }
+]
+

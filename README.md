@@ -6,4 +6,4 @@
 Este proyecto es acerca de crear una página web de mostrar productos con la finalidad de practicar lo aprendido durante el curso acerca de HTML, CSS y Javascript.
 
 ## Link a la página en funcionamiento
-[AluraGeek]()
+[AluraGeek](https://jacobo1k982.github.io/AluraGeek/)
